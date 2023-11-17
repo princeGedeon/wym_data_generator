@@ -16,11 +16,14 @@ datas=[]
 for i,mot_cle in enumerate(liste_educative):
     print(f"---------Traitement {mot_cle} numero {i}----")
     tmp=wiki_mot_cle_to_data(mot_cle) # Recherche sur wikipédia
+    t=[]
     for d in tmp:
         print("--generate elements_cle")
         d['element_cle']=transform_text_to_elementcle(titre=d.get('titre'),text=d.get('text_origine'))# Genere mots clés
         print("--generate rap")
         d['rap']=transform_elementcle_to_rap(element_cle=d.get('element_cle'),titre=d.get('titre'))#Génere rap
+        if (d['element_cle']!=None) and (d['rap']!=None):
+            t.append(d)
     print(tmp)
     datas.extend(tmp)# Ajoute a la liste principale
     print(f"Taille actuelle : {len(datas)}")
