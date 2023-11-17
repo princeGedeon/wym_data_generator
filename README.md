@@ -1,4 +1,4 @@
-## Script WYM Rap Generator
+## Script WIM Rap Generator
 
 ### Installer les dépendances
 ```shell

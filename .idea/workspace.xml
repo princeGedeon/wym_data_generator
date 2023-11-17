@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05e98f37-ddc1-4208-89b3-93502b2eb2bb" name="Changes" comment="" />
+    <list default="true" id="05e98f37-ddc1-4208-89b3-93502b2eb2bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/output/data_partie1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/params.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants/params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/final_dataset/data_partie1.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,20 +44,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/MSI CROSSHAIR 15/PycharmProjects/chainpy/slots",
+    "last_opened_file_path": "C:/Users/MSI CROSSHAIR 15/PycharmProjects/chainpy/final_dataset",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\final_dataset" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\slots" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\slots" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\input" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\tools" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\constants" />
@@ -211,7 +221,8 @@
       <workItem from="1700055905741" duration="4855000" />
       <workItem from="1700080081089" duration="4360000" />
       <workItem from="1700154239981" duration="12440000" />
-      <workItem from="1700228206732" duration="6847000" />
+      <workItem from="1700228206732" duration="7459000" />
+      <workItem from="1700247366708" duration="2074000" />
     </task>
     <servers />
   </component>
