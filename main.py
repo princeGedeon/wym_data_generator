@@ -5,10 +5,6 @@ from input.data import liste_educative
 from tools.exp import transform_text_to_elementcle, transform_elementcle_to_rap
 from tools.utils import wiki_mot_cle_to_data, save_in_file
 
-
-
-
-
 # Logique
 wikipedia.set_lang('fr')
 datas=[]
@@ -24,8 +20,9 @@ for i,mot_cle in enumerate(liste_educative):
         d['rap']=transform_elementcle_to_rap(element_cle=d.get('element_cle'),titre=d.get('titre'))#Génere rap
         if (d['element_cle']!=None) and (d['rap']!=None):
             t.append(d)
-    print(tmp)
-    datas.extend(tmp)# Ajoute a la liste principale
+            print(f"Fini : {d}")
+    print(t)
+    datas.extend(t)# Ajoute a la liste principale
     print(f"Taille actuelle : {len(datas)}")
     save_in_file(datas)#Save a chaque fois
 
