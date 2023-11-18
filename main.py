@@ -10,7 +10,7 @@ wikipedia.set_lang('fr')
 datas=[]
 
 for i,mot_cle in enumerate(liste_educative):
-    print(f"---------Traitement {mot_cle} numero {i}----")
+    print(f'---------Traitement {mot_cle} numero{i}')
     tmp=wiki_mot_cle_to_data(mot_cle) # Recherche sur wikipédia
     t=[]
     for d in tmp:
