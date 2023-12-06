@@ -5,9 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05e98f37-ddc1-4208-89b3-93502b2eb2bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie16.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie18.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie24.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie25.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie40.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie42.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie43.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie45.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie46.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie47.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie48.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie49.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie51.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie54.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie55.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie56.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie57.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie58.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie59.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie60.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie61.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie63.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie64.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie65.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie66.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie67.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie69.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie70.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie72.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie74.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie75.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie76.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie77.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie78.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie79.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie80.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie81.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie83.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_dataset/data_partie9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/data_partie6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/data_partie7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/data_partie8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/slots/akk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/slots/data_partie8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/references/basis.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/params.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants/params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/input/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/output/slots/data9.json" beforeDir="false" afterPath="$PROJECT_DIR$/output/slots/data9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +117,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI CROSSHAIR 15/PycharmProjects/chainpy/final_dataset&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI CROSSHAIR 15/PycharmProjects/chainpy/output&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,17 +129,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\output" />
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\output\slots" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\final_dataset" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\slots" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\references" />
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\output" />
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\output\slots" />
+      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\final_dataset" />
       <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\slots" />
-      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\input" />
-      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\tools" />
-      <recent name="C:\Users\MSI CROSSHAIR 15\PycharmProjects\chainpy\constants" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.utils">
     <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="chainpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,13 +275,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chainpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.utils" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.exp (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.data" />
-        <item itemvalue="Python.ding" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +321,15 @@
       <workItem from="1700154239981" duration="12440000" />
       <workItem from="1700228206732" duration="7459000" />
       <workItem from="1700247366708" duration="8299000" />
-      <workItem from="1700294399753" duration="3341000" />
+      <workItem from="1700294399753" duration="42095000" />
+      <workItem from="1700729848645" duration="16670000" />
+      <workItem from="1700928696887" duration="2975000" />
+      <workItem from="1701029998608" duration="2020000" />
+      <workItem from="1701068271397" duration="2802000" />
+      <workItem from="1701349435992" duration="11616000" />
+      <workItem from="1701633039873" duration="12662000" />
+      <workItem from="1701806200588" duration="3175000" />
+      <workItem from="1701840271854" duration="7128000" />
     </task>
     <servers />
   </component>
